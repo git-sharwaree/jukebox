@@ -1,3 +1,5 @@
+// harkirats and my ui is different so have to fig out how to upvote downvote for ex his is thumbs up so once the user thumbs up , it automatically shows a thumbs down
+// as user can only do one , right now my ui has a thumbs up and down have to align it to his 
 import {NextResponse, NextRequest} from "next/server";
 import {z} from 'zod';
 import {getServerSession} from "next-auth";
