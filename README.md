@@ -1,25 +1,13 @@
-
-A real-time collaborative music streaming web app where users **upvote songs to decide what plays next** 🎧🔥
-
-> 🛠 Built with **Next.js**, **Tailwind CSS**, **Prisma**, and **PostgreSQL**
-
----
+# Jukebox⚡
+An interactive music web app where the vibe is decided collectively.  
+Add tracks. Upvote favorites. The crowd shapes what plays next. 
 
 ## ✨ Features
 
-- 🔐 **Google Authentication** for user sign-in
-- 🗳️ **Live song upvoting** system for dynamic playlists
-- 📊 **Creator dashboard** for managing sessions
-- ⚡ Real-time updates using WebSockets / dynamic refresh
-- 💅 Clean, responsive UI with Tailwind CSS
+- 🔐 Simple authentication to join rooms using Google OAuth
+- 🗳️ Upvote-based song queueing
+- 📡 Real-time experience with dynamic updates
+- 🧠 Minimal UI focused on group listening
 
----
 
-## 🧠 Tech Stack
 
-| Frontend | Backend | Database | Auth |
-|----------|---------|----------|------|
-| Next.js | Prisma | PostgreSQL | Google OAuth |
-| Tailwind CSS | Node.js |  |  |
-
----
