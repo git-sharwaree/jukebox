@@ -1,6 +1,5 @@
 # Jukebox⚡
-An interactive music web app where the vibe is decided collectively.  
-Add tracks. Upvote favorites. The crowd shapes what plays next. 
+An interactive music web app where users can add tracks, upvote their favorites, and choose what plays next. 
 
 ## ✨ Features
 
